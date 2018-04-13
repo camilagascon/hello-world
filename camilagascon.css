@@ -1,0 +1,140 @@
+body {
+  margin: 5px;
+  margin-top: 100px;
+  background-color: 000
+;
+  }
+*:focus {
+  outline: none !important;
+}
+.nav{
+  color: #000;
+}
+.navbar{
+  background-color: #fff;
+  font-size: 22px;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight:  
+  border: none;
+  height:50px;
+  color: #000;
+  margin-bottom: 0px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.navbar-default .btn-link{
+  color:#000;
+  padding: 10px;
+}
+.navbar-default{
+ color: #000;
+}
+.navbar-right{
+ margin-right: 15px;
+ color: #000;
+ align-content: center;
+ align-content: flex-start;
+ float: none;
+}
+.nav:active{
+  color: #000;
+}
+.navbar-header{
+ color: #000;
+ align-content: flex-start;
+}
+.navbar-default{
+  color: #000;
+}
+.navbar-fixed-bottom{
+  color: #000;
+  align-content: center;
+}
+.jumbotron{
+   color: #000;
+  background-color: #fff;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding: 0px;
+font-family: 'Source Sans Pro', 
+sans-serif;
+    font-weight:light 
+   min-height: 400px;
+}
+.jumbotron2{
+    background-color: #fff;
+    color: #000;
+    margin: 25px;
+    padding: 50px;
+    font-family: 'Source Sans Pro'
+    sans-serif;
+     font-weight:light 
+   min-height: 400px;
+   vertical-align: baseline;
+  }
+
+  .jumbotron3{
+    background-color: #fff;
+    color: #000;
+    margin: 25px;
+    padding: 25px;
+   font-family: 'Source Sans Pro', sans-serif;
+   font-weight: lighter;
+ }
+
+.button{
+  color:#000;
+  border: none;
+  outline: none;
+  }
+
+.btn{
+  font-size: 22px;
+  color: #000;
+ font-weight: 400;
+ border: none;
+ line height: 1.1;
+ vertical-align: baseline;
+ float: inherit;
+ text-decoration: underline;
+}
+.btn3{
+ font-size: 20px;
+ color: #000;
+ font-weight: 400;
+ border-color: #000;
+ line height: 1.1;
+}
+.btn-link{
+  color:#000;
+  border: none
+}
+.btn-link:hover{
+  color:#000;
+  border-color: #000;
+  outline-color: none;
+}
+
+
+
+.container{
+vertical-align: baseline;
+}
+.row li {
+  width: 33.3%;
+  float: left;
+}
+
+googlemaps {
+  border: 0 none;
+  height: auto;
+  max-width: 100%;
+  padding: 20px;
+  display:inline-flex;
+}
+googleaps2 {
+  border: 0 none;
+  height: auto;
+  max-width: 100%;
+  display:inline-flex;
+}
